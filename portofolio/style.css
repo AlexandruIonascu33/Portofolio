@@ -1,0 +1,321 @@
+.form-wrapper {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .form-control {
+    display: block;
+    margin: 10px auto;
+    width: 80%;
+  }
+  .form-control.textarea {
+    height: 200px;
+    overflow: auto;
+  }
+  .form-control input[type="submit"] {
+    background-color: green;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 10px auto;
+    width: 50%;
+  }
+  .page {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+  }
+  .link {
+    color: #0000ff;
+    text-decoration: none;
+  }
+  .heading-1, .heading-2, .heading-3 {
+    text-align: center;
+  }
+  .paragraph {
+    margin: 10px;
+    text-align: justify;
+  }
+  .image {
+    display: block;
+    margin: 10px auto;
+    width: 80%;
+  }
+  /* Navigation styles */
+  .navigation {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+  }
+  .navigation .list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .navigation .list-item {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  .navigation .link {
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 20px;
+  }
+  .navigation .link:hover {
+    background-color: #555;
+  }
+  /* Table styles */
+  .table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 80%;
+  }
+  .table-cell {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  .table-row:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  .bcgimg {
+    background-image: url("./Imagini/shubham-sharma-OOm6Spsk3ug-unsplash.png");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 100% 100%;
+    height: 35em;
+}
+.bcgimg1 {
+  background-image: url("./Imagini/christina-wocintechchat-com-R_W_9D-53lw-unsplash.png");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: 100% 120%;
+  height: 35em;
+}
+.bcgimg2 {
+  background-image: url("./Imagini/christina-wocintechchat-com-RTJIXQNne68-unsplash.png");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: 100% 110%;
+  height: 35em;
+}
+.primultext {
+/* Layout Properties */
+position: absolute;
+  top: 35%;
+  left: 10%;
+/* UI Properties */
+text-align: left;
+font: normal normal normal 100%/100% Segoe UI;
+letter-spacing: 0px;
+color: #64A0B2;
+opacity: 1;
+}
+.aldoileatext {
+/* Layout Properties */
+position: absolute;
+  top: 30%;
+  left: 10%;
+/* UI Properties */
+text-align: left;
+font: normal normal normal 250%/300% Segoe UI;
+letter-spacing: 0px;
+color: #64A0B2;
+opacity: 1;
+}
+.primultext1 {
+  /* Layout Properties */
+  position: absolute;
+    top: 35%;
+    left: 10%;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal normal 100%/100% Segoe UI;
+  letter-spacing: 0px;
+  color: #143f4c;
+  
+  }
+  .aldoileatext1 {
+  /* Layout Properties */
+  position: absolute;
+    top: 30%;
+    left: 10%;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal normal 250%/300% Segoe UI;
+  letter-spacing: 0px;
+  color: #143f4c;
+  }
+
+  .primultext2 {
+    /* Layout Properties */
+    position: absolute;
+      top: 35%;
+      left: 10%;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 100%/100% Segoe UI;
+    letter-spacing: 0px;
+    color: #055065;
+    opacity: 1;
+    }
+    .aldoileatext2 {
+    /* Layout Properties */
+    position: absolute;
+      top: 30%;
+      left: 10%;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 250%/300% Segoe UI;
+    letter-spacing: 0px;
+    color: #64A0B2;
+    opacity: 1;
+    }
+.p21 {
+  font-size: clamp(2rem, 12vmin, 7rem);
+  font-family: sans-serif;
+  color: rgb(14, 45, 54);
+}
+.page2list {
+  list-style: none;
+  font-family: 'Bebas Neue', cursive;
+ font-size: 2em;
+  
+}
+.tabletext {
+  position: relative;
+  overflow: hidden;
+  padding-bottom: 3rem;
+}
+.tableclass {
+  
+  padding: 10%;
+  font-family: 'Bebas Neue', cursive;
+}
+.tr1 {
+  font-size: 40px;
+}
+.tr2 {
+  background: rgba(62, 22, 79, 0.13) 0% 0% no-repeat padding-box ;
+ font-size: 30px;
+ 
+}
+.buttontoform1 {
+  text-align: center;
+font: normal normal normal 230%/190% Segoe UI;
+letter-spacing: 0px;
+color: #64A0B2;
+background: #152A30 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+border-radius: 196px;
+opacity: 0.81;
+text-decoration: none;
+position: relative;
+
+}
+.buttontoform {
+  /* Layout Properties */
+top: 60%;
+left: 20%;
+
+position: absolute;
+/* UI Properties */
+text-align: center;
+font: normal normal normal 160%/190% Segoe UI;
+letter-spacing: 0px;
+color: #64A0B2;
+opacity: 1;
+background: #E5DEDC 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+border-radius: 10rem;
+text-decoration: none;
+}
+.lastsection {
+  background: #7D787A 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 0.41;
+}
+.name{
+
+}
+.lasta{
+  background: #FFFFFF 1000% 10% no-repeat padding-box;
+  border: 1px solid #707070;
+  border-radius: 1400px;
+  font: normal normal normal 230%/190% Segoe UI;
+  text-decoration: none;
+}
+.number{
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  border-radius: 42px;
+  width: 40%;
+}
+.mail{
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  border-radius: 49px;
+  width: 40%;
+}
+.formdiv {
+
+  top: 50%;
+  left: 50%;
+  width: 70%;
+  max-width: 60rem;
+  height: 30rem;
+  padding: 40px;
+  margin-left: 15%;
+  margin-right: 5%;
+  background: rgba(39, 52, 57, 0.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  border-radius: 10px;
+  
+}
+.formelement {
+  width: 100%;
+  padding: 10px 0;
+  font-size: 16px;
+  color: #fff;
+  margin-bottom: 30px;
+  border: none;
+  border-bottom: 1px solid #fff;
+  outline: none;
+  background: transparent;
+}
+.formelement::placeholder {
+  color: #f0f9ff;
+}
+
+.formbutton {
+  
+  display: block; 
+  margin: 0 auto;
+  color: #4dc9ef;
+  font-size: 1rem;
+}
+ 
+.formareaelement::placeholder {
+  color: #f0f9ff;
+}
+
+.formareaelement {
+  width: 100%;
+  padding: 10px 0;
+  font-size: 16px;
+  height: 10rem;
+  margin-bottom: 5%;
+  border: rgb(115, 0, 255);
+  border-bottom: 1px solid #fff;
+  
+  background:  transparent;
+}
+.projectimg {
+  width: 50%;
+  height: 50%;
+}
